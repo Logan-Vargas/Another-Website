@@ -1,0 +1,15 @@
+table th, td{
+    border: 1px solid rgb(255, 255, 255);
+}
+body{
+background-image: url(https://www.topgear.com/sites/default/files/2023/01/01%20BUGATTI_W16-Mistral_Japan_0.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+body{
+    color: aliceblue;
+}
+table{
+    background-color: black;
+}
